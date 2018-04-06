@@ -1,0 +1,17 @@
+---
+title: "Publish"
+author: "LBL"
+date: "April 6, 2018"
+output: html_document
+
+
+
+Agenda:
+  
+  1. Reviewed github and file structure
+  2. Going through a series of R demos
+  * Diagrammer: draw your own workflows 
+  * Data simulation and check ANOVA 
+  * Graph the results
+  * Making a map of the US
+  * Grab Andrew Nguyen's Data set and play with data
